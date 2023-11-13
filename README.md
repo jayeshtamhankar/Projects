@@ -1,2 +1,2 @@
 # Projects
-HTML, CSS &amp; JS
+HTML, CSS And JS
